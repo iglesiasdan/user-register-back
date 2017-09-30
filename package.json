@@ -1,0 +1,19 @@
+{
+  "name": "web_service",
+  "version": "1.0.0",
+  "description": "Prueba Apok",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Iglesias",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.16.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.5",
+    "formidable": "^1.1.1",
+    "mysql": "^2.14.1"
+  }
+}
